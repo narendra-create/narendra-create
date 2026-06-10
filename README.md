@@ -5,7 +5,7 @@
 
 - 🌱 Currently Upgrading my skillset with - **Python, GraphQL, AWS, AI integration in website**
 
-- ✨ My best project Till now [Local-Thali - A food delivery webapp but delivers street food too.](https://local-thali.narendra-dubey.com)
+- ✨ My best project Till now [Local-Thali - A food delivery webapp but delivers street food too.](https://local-thali.narendra-dubey.in)
 
 - 🌐 Checkout highly focused build - For client. [Adhyatma-coaching - Institute management platform](https://adhyatma-coaching.vercel.app)
 
