@@ -3,7 +3,7 @@
 
 - 🔭 Building [TrackLancer - A platform for freelancers to add milestones in their project.](https://github.com/narendra-create/track-lancer)
 
-- 🌱 Currently Upgrading my skillset with - **Python, GraphQL, AWS, AI integration in website**
+- 🌱 Currently Upgrading my skillset with - **Vitest, Docker, GraphQL, AWS, AI integration in website**
 
 - ✨ My best project Till now [Local-Thali - A food delivery webapp but delivers street food too.](https://local-thali.narendra-dubey.in)
 
